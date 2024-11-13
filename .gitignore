@@ -1,0 +1,8 @@
+# Ignorar archivos de sistema
+$RECYCLE.BIN/
+.DS_Store
+Thumbs.db
+
+# Ignorar carpetas específicas
+/venv/
+/node_modules/
